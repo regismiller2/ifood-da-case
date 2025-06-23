@@ -1,0 +1,11 @@
+boto3
+botocore
+pyspark
+findspark
+ipython
+pandas
+numpy
+matplotlib
+seaborn
+geopandas
+scipy
